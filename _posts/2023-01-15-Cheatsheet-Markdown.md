@@ -56,5 +56,6 @@ bloc of code
 
 ## Link & Images
 ``` markdown
-[text](url) # Link
-![alt text](url/path) # Image
+[text](https://www.example.com) # Link
+![alt text](image.jpg) # Image
+```
