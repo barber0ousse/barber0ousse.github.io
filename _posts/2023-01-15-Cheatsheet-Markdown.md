@@ -3,6 +3,7 @@ title: Markdown Cheatsheet
 date: 2023-01-15
 categories: [Informations, Guides]
 tags: [cheatsheet, markdown, formatage]
+img_path: /assets/img
 ---
 # Markdown Cheatsheet
 
@@ -104,4 +105,4 @@ ___
 ![alt text](image.jpg) # Image
 ```
 > [lien](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-> ![image](assets/img/Lelitre.png)
+> ![image](Lelitre.png)
