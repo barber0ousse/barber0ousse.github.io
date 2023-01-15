@@ -27,7 +27,7 @@ tags: [cheatsheet, markdown, formatage]
 **bold text**
 *tilicized text*
 ```
-> **bold text**
+> **bold text**  
 > *tilicized text*
 
 ## Lists :
