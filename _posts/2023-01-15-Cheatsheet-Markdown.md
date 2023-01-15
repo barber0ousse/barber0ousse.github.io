@@ -94,11 +94,14 @@ ___bold and italic text___
 ===
 ___
 ```
+> content before
 > ---
+> content after
 
 ## 7. Link & Images
 ``` markdown
 [text](https://www.example.com) # Link
 ![alt text](image.jpg) # Image
 ```
-> 
+> [lien](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+> ![image](https://avatars.githubusercontent.com/u/48182301?v=4)
