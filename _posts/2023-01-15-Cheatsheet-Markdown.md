@@ -15,12 +15,20 @@ tags: [cheatsheet, markdown, formatage]
 ##### H5
 ###### H6
 ```
+> # H1 Title
+> ## H2
+> ### H3
+> #### H4
+> ##### H5
+> ###### H6
 
 ## Text
 ``` markdown
 **bold text**
 *tilicized text*
 ```
+> **bold text**
+> *tilicized text*
 
 ## Lists :
 ### Ordered
