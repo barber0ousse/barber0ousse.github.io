@@ -6,7 +6,7 @@ tags: [cheatsheet, markdown, formatage]
 ---
 # Markdown Cheatsheet
 
-## Titles
+## 1. Titles
 ``` markdown
 # H1
 ## H2
@@ -14,68 +14,72 @@ tags: [cheatsheet, markdown, formatage]
 #### H4
 ##### H5
 ###### H6
-
 H1
 ===
 H2
 ---
 ```
-> # H1 Title
-> H1 Title
-===
+> # H1
 > ## H2
-> H2 Title
----
 > ### H3
 > #### H4
 > ##### H5
 > ###### H6
 
-## Text
+## 2. Text
 ``` markdown
 **bold text**
 __blod text__
-*tilicized text*
-_tilicized text_
+*italic text*
+_italic text_
+***bold and italic text***
+___bold and italic text___
 ```
 > **bold text**  
-> __blod text__  
-> *tilicized text*  
-> _tilicized text_
+> *italic text*  
+> ***bold and italic text
 
-## Lists :
+## 3. Lists :
 ### Ordered
 ``` markdown
 1. First item
 2. Second item
+    1. First sub-item
 ```
 ### Unordered
 ``` markdown
 - First item
 - Second item
+    - First sub-item
 ```
 
-## Blockquote
+## 4. Blockquote
 
 ``` markdown
 > Blockquote
+
+>> Blockquote in blockquote
 ```
 
-## Code
+## 5. Code
 
-``` markdown
-`dev`
-\``` # Remove the back slash before use
+`` markdown
+`code in line`
+``` # Remove the back slash before use
 bloc of code
-\``` # Remove the back slash before use
-```
+``` # Remove the back slash before use
+``
+> `code in line`  
+> ```
+> Bloc of code
+> ```
 
-## Horizontal rule
+## 6. Horizontal rule
 ``` markdown
 ---
 ```
 
-## Link & Images
+## 7. Link & Images
 ``` markdown
 [text](https://www.example.com) # Link
 ![alt text](image.jpg) # Image
