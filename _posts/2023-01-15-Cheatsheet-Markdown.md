@@ -14,9 +14,18 @@ tags: [cheatsheet, markdown, formatage]
 #### H4
 ##### H5
 ###### H6
+
+H1
+===
+H2
+---
 ```
 > # H1 Title
+> H1 Title
+===
 > ## H2
+> H2 Title
+---
 > ### H3
 > #### H4
 > ##### H5
@@ -25,10 +34,14 @@ tags: [cheatsheet, markdown, formatage]
 ## Text
 ``` markdown
 **bold text**
+__blod text__
 *tilicized text*
+_tilicized text_
 ```
 > **bold text**  
-> *tilicized text*
+> __blod text__  
+> *tilicized text*  
+> _tilicized text_
 
 ## Lists :
 ### Ordered
