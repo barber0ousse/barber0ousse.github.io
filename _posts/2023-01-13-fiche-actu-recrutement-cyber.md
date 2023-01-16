@@ -1,3 +1,9 @@
+---
+title: Writing a New Post
+date: 2023-01-13
+categories: [Grand Oral, Fiches actualites]
+tags: [recrutement, cybersecurite]
+---
 
 ## Résumé
 D'après christian Toon, RSSI d'un cabinet d'avocat (Pinsent Masons), les pratiques de recrutements sont a revoir. Selon lui, il faut aller chercher le potentiel ou on ne l'attend pas.
